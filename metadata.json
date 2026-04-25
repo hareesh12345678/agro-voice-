@@ -1,0 +1,8 @@
+{
+  "name": "AgroVoice: AI Crop Suggestion System",
+  "description": "An AI-powered voice-interactive system for farmers to get crop recommendations based on real-time weather and soil data using Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
